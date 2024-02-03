@@ -4,7 +4,7 @@
 
 
 Python Script to find good first issues for open source contributors: https://github.com/batcity/find-good-first-issues  
-https://github.com/k88hudson/git-flight-rules/pull/160
+Added instructions for resetting specific unstaged changes on git: https://github.com/k88hudson/git-flight-rules/pull/160
 <!--
 **batcity/batcity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
