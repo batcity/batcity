@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## List of open source contributions:
+## Hi there, Here's a List of my open source contributions:
 
 BugFix: Modified Docker compose up command to respect COMPOSE_REMOVE_ORPHANS environment variable: https://github.com/docker/compose/pull/11462  
 Python Script to find good first issues for open source contributors: https://github.com/batcity/find-good-first-issues  
