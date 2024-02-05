@@ -2,7 +2,7 @@
 
 ## List of open source contributions:
 
-BugFix: Modified Docker compose up command to respect COMPOSE_REMOVE_ORPHANS environment variable: https://github.com/docker/compose/pull/11462
+BugFix: Modified Docker compose up command to respect COMPOSE_REMOVE_ORPHANS environment variable: https://github.com/docker/compose/pull/11462  
 Python Script to find good first issues for open source contributors: https://github.com/batcity/find-good-first-issues  
 Added instructions for resetting specific unstaged changes on git: https://github.com/k88hudson/git-flight-rules/pull/160
 <!--
