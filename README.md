@@ -3,7 +3,7 @@
 you have any good opportunities, thanks!)
 
 BugFix: Modified Docker compose up command to respect COMPOSE_REMOVE_ORPHANS environment variable: https://github.com/docker/compose/pull/11462 (Type: Bug, Language: Go)  
-Python Script to find good first issues for open source contributors: https://github.com/batcity/find-good-first-issues  
+Python Script to find good first issues for open source contributors: https://github.com/batcity/find-good-first-issues  (Language: Python)  
 Added instructions for resetting specific unstaged changes on git: https://github.com/k88hudson/git-flight-rules/pull/160
 <!--
 **batcity/batcity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
