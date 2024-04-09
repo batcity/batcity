@@ -2,10 +2,8 @@
 >(Currently looking for Senior Engineering roles, reach out here: https://www.linkedin.com/in/gautham-hullikunte-1175569a/ if
 you have any good opportunities, thanks!)
 
-## Contributions
-
 - **Bug Fixes**
-  - Currently working on fixing a Bug in elastic search: https://github.com/elastic/elasticsearch/pull/107188 (Language: Java)
+  - Created a fix for a Bug that was affecting a REST endpoint in elastic search: https://github.com/elastic/elasticsearch/pull/107188 (Language: Java)
   - Modified Docker compose up command to respect COMPOSE_REMOVE_ORPHANS environment variable: [docker/compose#11462](https://github.com/docker/compose/issues/11462) (Language: Go)
 
 - **Projects**
