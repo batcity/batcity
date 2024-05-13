@@ -1,6 +1,4 @@
 ## Hi there!, Here's a List of my open source contributions:
->(Currently looking for Senior Engineering roles, reach out here: https://www.linkedin.com/in/gautham-hullikunte-1175569a/ if
-you have any good opportunities, thanks!)
 
 - **Bug Fixes**
   - Created a fix for a Bug that was affecting a REST endpoint in elastic search: https://github.com/elastic/elasticsearch/pull/107188 (Language: Java)
