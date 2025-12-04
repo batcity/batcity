@@ -13,3 +13,5 @@
 
 - **Documentation**
   - Added instructions for resetting specific unstaged changes on Git: [git-flight-rules#160](https://github.com/k88hudson/git-flight-rules/issues/160)
+
+- **Map showcasing the Product based tech firms in Chennai**: [Tech Map Chennai](https://umap.openstreetmap.fr/en/map/product-based-tech-firms-in-chennai_1327888)
