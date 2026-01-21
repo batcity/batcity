@@ -2,7 +2,7 @@
 
 - **Bug Fixes**
   - Created a fix for a Bug that was affecting a REST endpoint in Elasticsearch: [elastic/elasticsearch#107188](https://github.com/elastic/elasticsearch/pull/107188) (Language: Java)
-  - Contributed a partial mitigation for JVM memory pressure in OpenSearch bulk indexing by removing `ClusterState` retention from `ConcreteIndices`, reducing per-request memory overhead during high-concurrency indexing scenarios:  
+  - Investigated JVM memory pressure related to outstanding bulk indexing requests in OpenSearch, and contributed a preparatory refactor by removing `ClusterState` references from `ConcreteIndices` to simplify object lifetimes and support further root-cause analysis:  
     [opensearch-project/OpenSearch#20454](https://github.com/opensearch-project/OpenSearch/pull/20454) (Java)
   - Fixed `TypeError` in `reify` when folding sparse arrays in Dask Bags: [dask/dask#12103](https://github.com/dask/dask/pull/12103) (Language: Python)
   - Modified Docker compose up command to respect `COMPOSE_REMOVE_ORPHANS` environment variable: [docker/compose#11462](https://github.com/docker/compose/issues/11462) (Language: Go)
