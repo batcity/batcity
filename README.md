@@ -10,9 +10,6 @@
 - **Projects**
   - Simple CRUD blogging API built using Golang and gRPC: [go-blogging-api](https://github.com/batcity/go-blogging-api/tree/main) (Language: Go)
 
-- **Scripts**
-  - Python script to find good first issues for open source contributors: [find-good-first-issues](https://github.com/batcity/find-good-first-issues) (Language: Python)
-
 - **Documentation**
   - Added instructions for resetting specific unstaged changes on Git: [git-flight-rules#160](https://github.com/k88hudson/git-flight-rules/issues/160)
 
