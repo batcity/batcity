@@ -1,4 +1,12 @@
-## Hi there! Here's a List of My Open Source Contributions:
+## Hi there! Here's a few highlights from my Portfolio
+
+### Apps
+
+Created [Techmaps.fyi](http://techmaps.fyi/)
+
+---
+
+### Open Source Contributions
 
 - **Bug Fixes**
   - Created a fix for a bug in a REST endpoint to ensure accurate error handling when force-deleting an already deleted ml model in Elasticsearch: [elastic/elasticsearch#107188](https://github.com/elastic/elasticsearch/pull/107188) (Language: Java)
